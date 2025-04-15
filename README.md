@@ -41,7 +41,7 @@ python main.py
 ```
 ## 📽️ Demo Video
 
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/MaLJjBIgIi0/hqdefault.jpg)](https://www.youtube.com/watch?v=MaLJjBIgIi0)
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/MaLJjBIgIi0/maxresdefault.jpg)](https://www.youtube.com/watch?v=MaLJjBIgIi0)
 
 
 
