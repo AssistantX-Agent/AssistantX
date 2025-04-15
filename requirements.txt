@@ -1,0 +1,17 @@
+beautifulsoup4==4.13.3
+clip==0.2.0
+modelscope==1.25.0
+numpy==2.2.4
+openai==1.74.0
+pilk==0.2.4
+Pillow==11.2.1
+python-socketio==5.13.0
+pyzbar==0.1.9
+qrcode==8.1
+qrcode_terminal==0.8
+Requests==2.32.3
+six==1.17.0
+torch==2.6.0
+uiautomator2==3.2.9
+websockets==15.0.1
+zhipuai==2.1.5.20250410
