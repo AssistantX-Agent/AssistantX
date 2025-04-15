@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 Highlight!!!!
-AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment"**.  
+This repo is the implementation of "AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment"**.  
 
 ---
 
