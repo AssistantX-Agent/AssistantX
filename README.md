@@ -41,6 +41,6 @@ python main.py
 ```
 ## 📽️ Demo Video
 
-[Demo](https://github.com/AssistantX-Agent/AssistantX/blob/main/videos/iros.mp4)
+[Demo](https://www.youtube.com/watch?v=MaLJjBIgIi0)
 
 
