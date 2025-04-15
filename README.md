@@ -41,5 +41,6 @@ python main.py
 ```
 ## 📽️ Demo Video
 
-[Demo]([https://github.com/johndoe/AssistantX/assets/12345678-abcd-efgh-ijkl-9876543210ff](https://github.com/AssistantX-Agent/AssistantX/blob/main/videos/iros_video.mp4))
+[Demo](https://github.com/AssistantX-Agent/AssistantX/blob/main/videos/iros.mp4)
+
 
