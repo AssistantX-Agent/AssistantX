@@ -1,3 +1,4 @@
+# In order to use these actions, you must have a physical robot and modify the corresponding control functions in api.py to match your device. This is required for our program to run properly.
 def get_action_prompt(instruction='', summary_history=[], action_history=[], last_summary='', last_action='',
                       error_flag=None, priori_knowledge='', user_chat_history='', time_str='', group_chat_history='',
                       reflect_history='', perception='', refined_instruction='', active=''):
